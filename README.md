@@ -4,6 +4,7 @@ A nine key macropad, featuring an ISO enter key. This supports both MX and Alps 
 ![The KLE layout of the Macropad](VanguardPictures/LayoutKLE.png)
 
 ![The fully assembled Macropad, in purple!](VanguardPictures/Assembled.JPG)
+(built with Gateron G Pro Brown 2.0 switches and GMK Classic BOW)
 
 # Shopping List
 (this is probably the best list if you are in the UK, otherwise you can probably find similar things from local vendors if you are somewhere else.
