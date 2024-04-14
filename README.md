@@ -3,7 +3,7 @@ A nine key macropad, featuring an ISO enter key. This supports both MX and Alps 
 
 ![The KLE layout of the Macropad](VanguardPictures/LayoutKLE.png)
 
-![The fully assembled Macropad, in purple!](VanguardPictures/Assembled.jpg)
+![The fully assembled Macropad, in purple!](VanguardPictures/Assembled.JPG)
 
 # Shopping List
 (this is probably the best list if you are in the UK, otherwise you can probably find similar things from local vendors if you are somewhere else.
