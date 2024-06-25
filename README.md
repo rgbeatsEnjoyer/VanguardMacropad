@@ -1,8 +1,9 @@
 # VanguardMacropad V6
 
-*OUTDATED: PLEASE USE V7 FOR NEW BUILDS. THIS VERSION IS NOT RECCOMENDED AND FOR REFERENCE ONLY.*
+*OUTDATED: PLEASE USE V7 FOR NEW BUILDS. THIS VERSION IS NOT RECOMMENDED AND FOR REFERENCE ONLY.*
 
-A nine key macropad, featuring an ISO enter key. This supports both MX and Alps switches (or clones of either), and runs QMK. The included firmware is for an Amtel ATmega32U4 based ProMicro, and while you could get it to work with any controler board with the same pins, you may need to rewrite the firmware yourself. USB C-C cables don't work for some reason, at least for me. Assembly assumes that you have some experience soldering (nothing difficult though, I was able to do it in about 20 minutes, having not soldered anything for years) and some basic knowledge about mechanical keyboards (nothing you can't easily find on YouTube or Reddit)
+A nine key macropad, featuring an ISO enter key. This supports both MX and Alps switches (or clones of either), and runs QMK. The included firmware is for an Amtel ATmega32U4 based USB-C ProMicro, and while you could get it to work with any controler board with the same pins, you may need to rewrite the firmware yourself. USB C-C cables don't work for some reason, at least for me. 
+Assembly assumes that you have some experience soldering (nothing difficult though, I was able to do it in about 20 minutes, having not soldered anything for years) and some basic knowledge about mechanical keyboards (nothing you can't easily find on YouTube or Reddit)
 
 ![The KLE layout of the Macropad](VanguardPictures/LayoutKLE.png)
 
